@@ -13,3 +13,4 @@ I prioritized people who:
 - `/research/sources.md` — Annotated expert list
 - `/research/linkedin-posts/` — Recent posts by author
 - `/research/youtube-transcripts/` — Transcripts by video
+- `/research/other/` — Podcast summaries, newsletters, etc.

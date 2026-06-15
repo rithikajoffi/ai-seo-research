@@ -7,6 +7,11 @@ videos = {
     "aleyda_solis_seo": "THzBTNk9DEc",
     "gael_breton_ai_content": "zET_MTrITeI",
     "cyrus_shepard_google_seo": "tT1rPtBmGi4",
+    "bernard_huang_content_optimization": "jSewQFKsqOU",
+    "ross_hudgens_content_marketing": "1tr7nNrEYHk",
+    "eli_schwartz_product_led_seo": "-z_w8aFqCE8",
+    "authority_hacker_ai_seo": "RxwMMROFWPc",
+    "ahrefs_ai_seo_content": "tiW6xRYSXmM",
 }
 
 os.makedirs("research/youtube-transcripts", exist_ok=True)
